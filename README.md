@@ -19,7 +19,7 @@ so lecture 10 is a reasonable place to be at the beginning of week 4.)
 
 Gradescope quiz (due by 10am day of next lecture, in this case 10am April 21):
 
-... coming after class! ...
+https://www.gradescope.com/courses/106159/assignments/455729
 
 Reminder to check the course web site for other deadlines:
 
