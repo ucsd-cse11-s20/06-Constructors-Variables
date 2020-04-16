@@ -62,6 +62,20 @@ class ExamplesRegion {
   Point toTest1 = new Point(60, 60);
   Point toTest2 = new Point(20, 20);
 
+  // New code from lecture starts here
+  double dTest1 = this.toTest1.distance(this.toTest2);
+
+  boolean bl1 = this.toTest1.belowLeftOf(this.toTest2);
+  boolean bl1Expect = false;
+  boolean bl2 = this.toTest2.belowLeftOf(this.toTest1);
+  boolean bl2Expect = true;
+
+  boolean testBLO(Tester t) {
+    return t.checkExpect(this.toTest1.belowLeftOf(this.toTest2), false) &&
+          t.checkExpect(this.toTest2.belowLeftOf(this.toTest1), true);
+  }
+  // New code from lecture ends here
+
   boolean testContains(Tester t) {
     return t.checkExpect(this.r1.contains(this.toTest1), true) &&
            t.checkExpect(this.r2.contains(this.toTest1), false) &&
