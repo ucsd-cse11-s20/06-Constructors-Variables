@@ -12,11 +12,10 @@ https://docs.google.com/presentation/d/1mConpHswEbir7wlFl801NTYFe4IPozOmcGOgcnmH
 
 Reading:
 
-https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture8.html
+https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture10.html
 
 (A reminder about the numbering; these were originally for a Mon/Wed/Fri class,
-so lecture 8 was Wednesday of week 4, which means we're about on the same pace
-as S17.)
+so we'll actually be studying this reading for both days next week, and it corresponds to the end-ish of week 4.)
 
 Gradescope quiz (due by 10am day of next lecture, in this case 10am April 21):
 
