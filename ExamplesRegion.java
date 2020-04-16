@@ -102,5 +102,7 @@ class ExamplesRegion {
            t.checkExpect(this.c2.contains(this.circleTest1), false) &&
            t.checkExpect(this.c2.contains(this.circleTest2), true);
   }
+
+  boolean b2 = this.c1.contains(this.p1);
 }
 
