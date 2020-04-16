@@ -18,7 +18,7 @@ https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture8.html
 so lecture 8 was Wednesday of week 4, which means we're about on the same pace
 as S17.)
 
-Gradescope quiz (due by 10am day of next lecture, in this case 10am April 16):
+Gradescope quiz (due by 10am day of next lecture, in this case 10am April 21):
 
 ... coming after class! ...
 
